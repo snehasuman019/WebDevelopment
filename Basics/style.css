@@ -1,0 +1,123 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: gray;
+}
+.highlight {
+    color: green;
+}
+#main-heading {
+    color: purple;
+}
+p {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+body {
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+p {
+    color: red;
+}
+
+.text {
+    color: blue;
+}
+
+#para {
+    color: green;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-weight: bold;
+}
+/* text-align: center;
+text-align: left;
+text-decoration: underline;
+text-decoration: none; */
+div {
+    width: 300px;
+    height: 150px;
+    background-color: lightblue;
+}
+.container {
+    max-width: 800px;
+}
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+}
+.card {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.card h2 {
+    text-align: center;
+}
+
+.card p {
+    font-size: 16px;
+}
+.container {
+    display: flex;
+}
+.container {
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: 10px;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;     /* default */
+}
+flex-direction: column;
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 200px;
+    height: 150px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+
